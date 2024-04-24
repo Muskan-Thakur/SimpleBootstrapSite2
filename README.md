@@ -19,5 +19,5 @@ Built using HTML, CSS, and Bootstrap framework, the website features a clean and
 
 *Contact Form:* An interactive form allows visitors to get in touch with the organization,providing a convenient means of communication.
 
-Footer: The footer section includes essential contact information, links to relevant pages, and social media icons for easy access to the organization's online presence.
+*Footer:* The footer section includes essential contact information, links to relevant pages, and social media icons for easy access to the organization's online presence.
 
